@@ -1,2 +1,8 @@
-# Hindi_Hate_Speech_Detection_Python
-An advanced Hindi hate speech detection model in Python.
+# Hindi Hate Speech Detection
+This is a Python project for creating a Hindi hate speech detection model.
+
+# How to use
+...
+
+# References
+(google/muril-base-cased)[https://huggingface.co/google/muril-base-cased]
