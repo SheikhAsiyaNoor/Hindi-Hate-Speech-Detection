@@ -7,9 +7,9 @@ This is a Python project for a Hindi hate speech detection model with performanc
 3. Test it with inputs - run `python test_cli.py`
 
 # References
-* Model: [https://huggingface.co/google/muril-base-cased](google/muril-base-cased)
-* Paper: [https://arxiv.org/pdf/2103.10730](*MuRIL: Multilingual Representations for Indian Languages*)
-* Dataset: [https://www.kaggle.com/datasets/harithapliyal/hate-speech-in-hindi](*Kaggle hate speech in hindi dataset*)
+* Model: [`google/muril-base-cased`](https://huggingface.co/google/muril-base-cased)
+* Paper: [*MuRIL: Multilingual Representations for Indian Languages*](https://arxiv.org/pdf/2103.10730)
+* Dataset: [*Kaggle hate speech in hindi dataset*](https://www.kaggle.com/datasets/harithapliyal/hate-speech-in-hindi)
 
 # Estimated training time
 *~30-40 minutes* for training
